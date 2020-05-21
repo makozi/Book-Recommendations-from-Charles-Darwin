@@ -8,7 +8,7 @@ A a content-based book recommendation system, which will determine which books a
 
 ## Data
 
-The data can be found [here]()
+The data can be found [here](https://github.com/makozi/Book-Recommendations-from-Charles-Darwin/tree/develop/datasets)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/makozi/Starbucks-Project/blob/master/LICENSE)
